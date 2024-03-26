@@ -1,0 +1,15 @@
+body {
+    background-color: #DBB77C;
+}
+h1 {
+    font-family: "標楷體";
+    font-style: italic;
+    font-weight: bolder;
+}
+p {
+    font-family: "標楷體";
+    font-style: normal;
+    font-size: large;
+    line-height: 150%;
+    font-weight: normal;
+}
